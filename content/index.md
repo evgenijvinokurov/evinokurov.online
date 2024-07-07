@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Персональный сайт (с блогом) врача-психиатра Винокурова Евгения
 ---
 
 This is a blank Quartz installation.
